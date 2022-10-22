@@ -25,7 +25,7 @@
 | Ruppert | Student | [@rascalnikov](https://github.com/rascalnikov)|
 | Theingi  | Student | [@theingistacy](https://github.com/theingistacy)|
 | Bassil| Student| [@bassil88](https://github.com/bassil88)| 
-| Harsh |DCI-sudent | [@arora1274](https://github.com/arora1274)|
+| Harsh | Student | [@arora1274](https://github.com/arora1274)|
 | Orkhan | Student | [@humbleton](https://github.com/humbleton)|
 | Maha | Student | [@makh93](https://github.com/makh93)|
 | Anna | Student | [@annamnesia](https://github.com/annamnesia)|
