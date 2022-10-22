@@ -1,6 +1,6 @@
 # In Evidence
 
-## 👉 [Class Book](https://github.com/FBW-E06-1/class-book) - live coding, resources, solutions 
+## 👉 [Class Book](https://github.com/FbW22-E10/Class-Book) - live coding, resources, solutions 
 
 
 ## Class Participants
