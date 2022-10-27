@@ -11,7 +11,7 @@
 | Balazs | Teacher | [@wagowsky](https://github.com/wagowsky)|
 | Sesait | Student | [@sesait22](https://github.com/sesait22)|
 | Stefano | Student | [@jumphole](https://github.com/jumphole) |
-| Federia | Student | [@federicocsl](http://github.com/alexgrubor) |
+| Federico | Student | [@federicocsl](http://github.com/federicocsl) |
 | Ibrahim | Student | [@ibrahim-balko](https://github.com/ibrahim-balko) |
 | George | Student | [@njengageorge](https://github.com/njengageorge)|
 | Parul | Student | [@parooldaiya88](https://github.com/parooldaiya88)
