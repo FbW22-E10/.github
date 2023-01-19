@@ -22,7 +22,7 @@
 | Tamman | Student | [@tamelle](https://github.com/tamelle)|
 | Ali | Student | [@nullom](https://github.com/nullom)|
 | Yinon| Student | [@wizardashdod](https://github.com/wizardashdod)|
-| Ruppert | Student | [@rascalnikov](https://github.com/rascalnikov)|
+| Ruppert | Student | [@merinobro](https://github.com/merinobro)|
 | Theingi  | Student | [@theingistacy](https://github.com/theingistacy)|
 | Bassil| Student| [@bassil88](https://github.com/bassil88)| 
 | Harsh | Student | [@arora1274](https://github.com/arora1274)|
